@@ -1,0 +1,17 @@
+{
+    "name": "react-modal-component-package",
+    "version": "0.0.10",
+    "description": "A simple modal component for React",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "scripts": {
+      "build": "echo \"No build process yet\"",
+      "test": "echo \"No tests yet\""
+    },
+    "author": "Cedric Royer",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1"
+    }
+  }
